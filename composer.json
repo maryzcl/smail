@@ -1,8 +1,8 @@
 {
-    "name": "studio/smail",
+    "name": "rootzcl/smail",
     "autoload": {
         "psr-4": {
-            "Studio\\Smail\\": "src/"
+            "Rootzcl\\Smail\\": "src/"
         }
     },
     "authors": [
