@@ -1,8 +1,8 @@
 {
-    "name": "hp/smial",
+    "name": "studio/smail",
     "autoload": {
         "psr-4": {
-            "Hp\\Smial\\": "src/"
+            "Studio\\Smail\\": "src/"
         }
     },
     "authors": [
